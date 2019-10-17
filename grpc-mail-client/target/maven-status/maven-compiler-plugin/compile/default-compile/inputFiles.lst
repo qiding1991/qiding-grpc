@@ -1,0 +1,16 @@
+/Users/qiding/gitproject/qiding-grpc/grpc-mail-client/target/generated-sources/protobuf/java/com/syswin/temail/channel/grpc/servers/UserAccount.java
+/Users/qiding/gitproject/qiding-grpc/grpc-mail-client/target/generated-sources/protobuf/java/com/syswin/temail/channel/grpc/servers/ChannelLocation.java
+/Users/qiding/gitproject/qiding-grpc/grpc-mail-client/target/generated-sources/protobuf/java/com/syswin/temail/channel/grpc/servers/LocationQuery.java
+/Users/qiding/gitproject/qiding-grpc/grpc-mail-client/target/generated-sources/protobuf/java/com/syswin/temail/channel/grpc/servers/GatewayServer.java
+/Users/qiding/gitproject/qiding-grpc/grpc-mail-client/target/generated-sources/protobuf/java/com/syswin/temail/channel/grpc/servers/ChannelRegistry.java
+/Users/qiding/gitproject/qiding-grpc/grpc-mail-client/target/generated-sources/protobuf/java/com/syswin/temail/channel/grpc/servers/ChannelLocationsOrBuilder.java
+/Users/qiding/gitproject/qiding-grpc/grpc-mail-client/target/generated-sources/protobuf/java/com/syswin/temail/channel/grpc/servers/ChannelLocationOrBuilder.java
+/Users/qiding/gitproject/qiding-grpc/grpc-mail-client/target/generated-sources/protobuf/java/com/syswin/temail/channel/grpc/servers/CommonResponseOrBuilder.java
+/Users/qiding/gitproject/qiding-grpc/grpc-mail-client/target/generated-sources/protobuf/java/com/syswin/temail/channel/grpc/servers/CommonResponse.java
+/Users/qiding/gitproject/qiding-grpc/grpc-mail-client/target/generated-sources/protobuf/grpc-java/com/syswin/temail/channel/grpc/servers/DispatchLocationQueryServerGrpc.java
+/Users/qiding/gitproject/qiding-grpc/grpc-mail-client/target/generated-sources/protobuf/grpc-java/com/syswin/temail/channel/grpc/servers/GatewayRegistrySyncServerGrpc.java
+/Users/qiding/gitproject/qiding-grpc/grpc-mail-client/target/generated-sources/protobuf/java/com/syswin/temail/channel/grpc/servers/GrpcLocationBeans.java
+/Users/qiding/gitproject/qiding-grpc/grpc-mail-client/target/generated-sources/protobuf/java/com/syswin/temail/channel/grpc/servers/UserAccountOrBuilder.java
+/Users/qiding/gitproject/qiding-grpc/grpc-mail-client/target/generated-sources/protobuf/java/com/syswin/temail/channel/grpc/servers/ChannelLocations.java
+/Users/qiding/gitproject/qiding-grpc/grpc-mail-client/target/generated-sources/protobuf/java/com/syswin/temail/channel/grpc/servers/GatewayServerState.java
+/Users/qiding/gitproject/qiding-grpc/grpc-mail-client/target/generated-sources/protobuf/java/com/syswin/temail/channel/grpc/servers/GatewayServerOrBuilder.java

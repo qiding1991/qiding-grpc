@@ -1,0 +1,9 @@
+
+bsquid:S00119Ç"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(•ïÁš
+isquid:S1192'"RUse already-defined constant 'SERVICE_NAME' instead of duplicating its value here.(ú´È
+hsquid:S1301×"KReplace this "switch" statement by "if" statements to increase readability.(Ã“’‰úÿÿÿÿ
+osquid:ModifiersOrderCheckJ"EReorder the modifiers to comply with the Java Language Specification.(Õ…‹Çÿÿÿÿÿ
+bsquid:S00119Ç"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(•ïÁš
+Ksquid:S3077ó".Remove the "volatile" keyword from this field.(¸Í«ûşÿÿÿÿ
+Jsquid:S1172Q".Remove this unused method parameter "request".(®˜ñ¦şÿÿÿÿ
+hsquid:S1301å"KReplace this "switch" statement by "if" statements to increase readability.(Ã“’‰úÿÿÿÿ

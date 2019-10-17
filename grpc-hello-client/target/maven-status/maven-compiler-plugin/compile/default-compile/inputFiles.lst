@@ -1,0 +1,8 @@
+/Users/qiding/gitproject/qiding-grpc/grpc-hello-client/target/generated-sources/protobuf/java/com/proto/grpc/HelloGrpc.java
+/Users/qiding/gitproject/qiding-grpc/grpc-hello-client/target/generated-sources/protobuf/java/com/proto/grpc/HelloRequestOrBuilder.java
+/Users/qiding/gitproject/qiding-grpc/grpc-hello-client/target/generated-sources/protobuf/grpc-java/com/proto/grpc/HelloServiceGrpc.java
+/Users/qiding/gitproject/qiding-grpc/grpc-hello-client/src/main/java/com/qiding/grpc/HelloWorldClient.java
+/Users/qiding/gitproject/qiding-grpc/grpc-hello-client/src/main/java/com/qiding/grpc/App.java
+/Users/qiding/gitproject/qiding-grpc/grpc-hello-client/target/generated-sources/protobuf/java/com/proto/grpc/HelloRequest.java
+/Users/qiding/gitproject/qiding-grpc/grpc-hello-client/target/generated-sources/protobuf/java/com/proto/grpc/HelloResponse.java
+/Users/qiding/gitproject/qiding-grpc/grpc-hello-client/target/generated-sources/protobuf/java/com/proto/grpc/HelloResponseOrBuilder.java

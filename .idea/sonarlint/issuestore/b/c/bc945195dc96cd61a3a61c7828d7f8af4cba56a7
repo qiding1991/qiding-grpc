@@ -1,0 +1,10 @@
+
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆÛ
+Ksquid:S1068"/Remove this unused "serviceName" private field.(ª†ÿ¾ıÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(çî‚¨ıÿÿÿÿ
+8squid:S1170"!Make this final field static too.(¸”‰…
+msquid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(¸”‰…
+=squid:S1170
+"!Make this final field static too.(‡®Òûÿÿÿÿ

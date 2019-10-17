@@ -1,0 +1,6 @@
+
+‘squid:UselessImportCheck"aRemove this unused import 'com.syswin.temail.channel.grpc.servers.GatewayRegistrySyncServerGrpc'.(í»Î„ûÿÿÿÿ8éÈÀİ-
+Qsquid:S3077".Remove the "volatile" keyword from this field.(Ğûüÿÿÿÿ8öí±Àİ-
+Ksquid:S1068"(Remove this unused "host" private field.(Ø¦øİûÿÿÿÿ8øÂŸÀİ-
+squid:UselessImportCheck"TRemove this unused import 'com.syswin.temail.channel.grpc.servers.ChannelLocations'.(Õ²¸ì8ÃÛ°Àİ-
+Ksquid:S1068"(Remove this unused "port" private field.(„ƒ¤Êıÿÿÿÿ8øÂŸÀİ-
